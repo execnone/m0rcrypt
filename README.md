@@ -1,2 +1,2 @@
 # m0rcrypt
-encoding algorithm
+c++ encoding algorithm
